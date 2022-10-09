@@ -8,3 +8,8 @@
 ## AI system
  - Implemented using the finite state machine mode, see more: [Understanding and Implementing Simple Pluggable AI Script Objects for Unity Finite State Machine]
  - Dynamic navigation is implemented using the RuntimeNavMesh plugin.
+
+### Video
+https://www.loom.com/share/6279e2716aae456b8bf6f6dbd4d80a13
+
+
