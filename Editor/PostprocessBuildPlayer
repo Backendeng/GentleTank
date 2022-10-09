@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+import sys, os.path, subprocess, fnmatch, re
+editor_path = os.path.join('.', 'Assets', 'Editor')
+editor_files = [i for i in os.listdir(editor_path) if os.path.isfile(os.path.join(editor_path, i)) and not i.endswith('.meta')]
+editor_exec_files = [os.path.join(editor_path, j) for j in editor_files if re.match(fnmatch.translate('PostprocessBuildPlayer_*'), j, re.IGNORECASE)]
+for exec_file in editor_exec_files:
+  try:
+    sys.argv[0] = exec_file
+    subprocess.call(sys.argv)
+  except OSError as e:
+    print(exec_file + ' ' + str(e.errno))

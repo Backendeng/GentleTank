@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 41fadbebf94826d4f9678e6c8f18ca53
+labels:
+- Air_Force
+- aircraft
+- military
+- jet
+- fighter
+- plane
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Tire_1_3
+    100002: NWS_1
+    100004: NWS
+    100006: F16_03_1
+    100008: F16_03
+    100010: sceneRoot
+    100012: //RootNode
+    100014: F16_07_1
+    100016: Tire_1_2
+    100018: F16_13
+    100020: F16_14
+    100022: F16_15_2
+    100024: Tire_1_1
+    100026: Tire_1
+    100028: F16_01
+    100030: F16_02
+    100032: F16_04_1
+    100034: F16_04
+    100036: F16_08_1
+    100038: F16_15_1
+    100040: F16_15
+    100042: RootNode
+    100044: group
+    100046: F16_07
+    100048: F16_08
+    100050: F16_13_1
+    100052: matrixTransform
+    100054: Tire_2_1
+    100056: Tire_2
+    100058: matrixTransform_5
+    100060: matrixTransform_4
+    100062: matrixTransform_3
+    100064: matrixTransform_2
+    100066: matrixTransform_1
+    100068: Collada_visual_scene_group
+    100070: polySurface700
+    100072: polySurface707
+    100074: polySurface775
+    100076: polySurface776
+    100078: polySurface779
+    100080: polySurface780
+    100082: transform1
+    100084: transform2
+    100086: transform3
+    400000: Tire_1_3
+    400002: NWS_1
+    400004: NWS
+    400006: F16_03_1
+    400008: F16_03
+    400010: sceneRoot
+    400012: //RootNode
+    400014: F16_07_1
+    400016: Tire_1_2
+    400018: F16_13
+    400020: F16_14
+    400022: F16_15_2
+    400024: Tire_1_1
+    400026: Tire_1
+    400028: F16_01
+    400030: F16_02
+    400032: F16_04_1
+    400034: F16_04
+    400036: F16_08_1
+    400038: F16_15_1
+    400040: F16_15
+    400042: RootNode
+    400044: group
+    400046: F16_07
+    400048: F16_08
+    400050: F16_13_1
+    400052: matrixTransform
+    400054: Tire_2_1
+    400056: Tire_2
+    400058: matrixTransform_5
+    400060: matrixTransform_4
+    400062: matrixTransform_3
+    400064: matrixTransform_2
+    400066: matrixTransform_1
+    400068: Collada_visual_scene_group
+    400070: polySurface700
+    400072: polySurface707
+    400074: polySurface775
+    400076: polySurface776
+    400078: polySurface779
+    400080: polySurface780
+    400082: transform1
+    400084: transform2
+    400086: transform3
+    2300000: Tire_1_3
+    2300002: NWS_1
+    2300004: F16_03_1
+    2300006: F16_07_1
+    2300008: F16_15_2
+    2300010: Tire_1_1
+    2300012: F16_04_1
+    2300014: F16_08_1
+    2300016: F16_15_1
+    2300018: F16_13_1
+    2300020: Tire_2_1
+    2300022: polySurface700
+    2300024: polySurface707
+    2300026: polySurface780
+    3300000: Tire_1_3
+    3300002: NWS_1
+    3300004: F16_03_1
+    3300006: F16_07_1
+    3300008: F16_15_2
+    3300010: Tire_1_1
+    3300012: F16_04_1
+    3300014: F16_08_1
+    3300016: F16_15_1
+    3300018: F16_13_1
+    3300020: Tire_2_1
+    3300022: polySurface700
+    3300024: polySurface707
+    3300026: polySurface780
+    4300000: F16_15_1
+    4300002: F16_15_2
+    4300004: F16_13_1
+    4300006: F16_08_1
+    4300008: F16_04_1
+    4300010: F16_03_1
+    4300012: Tire_1_1
+    4300014: Tire_2_1
+    4300016: NWS_1
+    4300018: Tire_1_3
+    4300020: F16_07_1
+    4300022: polySurface700
+    4300024: polySurface707
+    4300026: polySurface780
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
